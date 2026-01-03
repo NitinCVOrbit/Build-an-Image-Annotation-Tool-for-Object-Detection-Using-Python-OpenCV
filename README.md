@@ -27,4 +27,4 @@ This project is useful for creating custom datasets for **YOLO, Faster R-CNN, SS
 ---
 
 ## 📝 Label Format
-Each annotation is saved in the following format: class_id x1 y1 x2 y2
+Each annotation is saved in the following format: #**class_id x1 y1 x2 y2**
